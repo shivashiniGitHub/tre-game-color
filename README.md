@@ -1,1 +1,1 @@
-# tre-game-color
+# trex-game-color
